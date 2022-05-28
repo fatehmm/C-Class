@@ -1,0 +1,13 @@
+/Users/fatehmmmdli/Desktop/Visual Studio/Homework 27.05.2022/Homework/Homework/bin/Debug/netcoreapp3.1/Homework.deps.json
+/Users/fatehmmmdli/Desktop/Visual Studio/Homework 27.05.2022/Homework/Homework/bin/Debug/netcoreapp3.1/Homework.runtimeconfig.json
+/Users/fatehmmmdli/Desktop/Visual Studio/Homework 27.05.2022/Homework/Homework/bin/Debug/netcoreapp3.1/Homework.runtimeconfig.dev.json
+/Users/fatehmmmdli/Desktop/Visual Studio/Homework 27.05.2022/Homework/Homework/bin/Debug/netcoreapp3.1/Homework.dll
+/Users/fatehmmmdli/Desktop/Visual Studio/Homework 27.05.2022/Homework/Homework/bin/Debug/netcoreapp3.1/Homework.pdb
+/Users/fatehmmmdli/Desktop/Visual Studio/Homework 27.05.2022/Homework/Homework/obj/Debug/netcoreapp3.1/Homework.csproj.AssemblyReference.cache
+/Users/fatehmmmdli/Desktop/Visual Studio/Homework 27.05.2022/Homework/Homework/obj/Debug/netcoreapp3.1/Homework.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fatehmmmdli/Desktop/Visual Studio/Homework 27.05.2022/Homework/Homework/obj/Debug/netcoreapp3.1/Homework.AssemblyInfoInputs.cache
+/Users/fatehmmmdli/Desktop/Visual Studio/Homework 27.05.2022/Homework/Homework/obj/Debug/netcoreapp3.1/Homework.AssemblyInfo.cs
+/Users/fatehmmmdli/Desktop/Visual Studio/Homework 27.05.2022/Homework/Homework/obj/Debug/netcoreapp3.1/Homework.csproj.CoreCompileInputs.cache
+/Users/fatehmmmdli/Desktop/Visual Studio/Homework 27.05.2022/Homework/Homework/obj/Debug/netcoreapp3.1/Homework.dll
+/Users/fatehmmmdli/Desktop/Visual Studio/Homework 27.05.2022/Homework/Homework/obj/Debug/netcoreapp3.1/Homework.pdb
+/Users/fatehmmmdli/Desktop/Visual Studio/Homework 27.05.2022/Homework/Homework/obj/Debug/netcoreapp3.1/Homework.genruntimeconfig.cache
